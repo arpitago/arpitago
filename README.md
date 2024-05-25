@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arpitago
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on Dahboard building in Tableau and PowerBI
+- 💞️ I’m looking to collaborate on Dashboard building in Tableau and PowerBI
 - 📫 How to reach me ...
 
 <!---
